@@ -102,7 +102,9 @@ buttons = [
         InlineKeyboardButton(
             text="☆ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ☆",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
-        ),
+        )
+    [
+        InlineKeyboardButton(text="✿ᥴ᥅ꫀꪖꪻꪮ᥅✿", url=f"tg://user?id=5287077710"),
     ],
     [
         InlineKeyboardButton(text="🌼𝐇𝐄𝐋𝐏🌼", callback_data="help_back"),
